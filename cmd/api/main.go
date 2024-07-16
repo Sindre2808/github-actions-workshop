@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"os"
 )
-
+dømøkhmdtøkgmdørgkm
 func helloHandler(w http.ResponseWriter, r *http.Request) {
 	queryValues := r.URL.Query()
 	names := queryValues["name"]
